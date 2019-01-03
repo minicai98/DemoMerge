@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TankMove : MonoBehaviour {
 
-	public float mSpeed = 1;//移動速度
+	public float rdeveloop = 1; public float mSpeed = 1;//移動速度
 	public float rSpeed = 1;//旋轉速度
 
 	// Use this for initialization
